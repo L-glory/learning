@@ -1,0 +1,2 @@
+ldapUserServiceImpl=com.glory.learning.consumer.spi.LdapUserServiceImpl
+tokenUserServiceImpl=com.glory.learning.consumer.spi.TokenUserServiceImpl

@@ -1,0 +1,2 @@
+com.glory.learning.consumer.spi.LdapUserServiceImpl
+com.glory.learning.consumer.spi.TokenUserServiceImpl
